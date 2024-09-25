@@ -16,6 +16,6 @@ Je suis en mesure de vous accompagner sur :
 - Gestion de projet data complexe
 - Management d'équipe data
 
-Consultez mon portfolio : [Uploading Portfolio - Charles de Valois v4.pdf…]()
+Consultez mon portfolio : [Portfolio - Charles de Valois v4.pdf](https://github.com/user-attachments/files/17131325/Portfolio.-.Charles.de.Valois.v4.pdf)
 
 Pour me contacter : chvalois@yahoo.fr
