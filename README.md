@@ -1,5 +1,5 @@
 # chvalois.github.io
-![image](https://github.com/user-attachments/assets/df660810-4446-45ce-82ea-3f1737d1a444)
+![image](https://github.com/user-attachments/assets/91cad943-5472-4acd-b0d2-398342f9a563)
 
 Vous recherchez un Senior Data Analyst avec une forte sensibilité business pour intégrer votre équipe ?
 
