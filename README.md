@@ -19,4 +19,4 @@ Je suis en mesure de vous accompagner sur :
 
 Consultez mon portfolio : [Portfolio - Charles de Valois v6 FR.pdf](https://github.com/user-attachments/files/17395056/Portfolio.-.Charles.de.Valois.v6.FR.pdf)
 
-Pour me contacter : chvalois@yahoo.fr
+Pour me contacter : chvalois.pro@gmail.com
