@@ -1,5 +1,6 @@
 # chvalois.github.io
-![image](https://github.com/user-attachments/assets/91cad943-5472-4acd-b0d2-398342f9a563)
+![chrome_nFl9SB7LBx](https://github.com/user-attachments/assets/97ff5294-3337-477d-b188-dae04a7c1af2)
+
 
 Vous recherchez un Senior Data Analyst avec une forte sensibilité business pour intégrer votre équipe ?
 
@@ -16,6 +17,6 @@ Je suis en mesure de vous accompagner sur :
 - Gestion de projet data complexe
 - Management d'équipe data
 
-Consultez mon portfolio : [Portfolio - Charles de Valois v5 FR.pdf](https://github.com/user-attachments/files/17257502/Portfolio.-.Charles.de.Valois.v5.FR.pdf)
+Consultez mon portfolio : [Portfolio - Charles de Valois v6 FR.pdf](https://github.com/user-attachments/files/17395056/Portfolio.-.Charles.de.Valois.v6.FR.pdf)
 
 Pour me contacter : chvalois@yahoo.fr
